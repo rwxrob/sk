@@ -1,0 +1,81 @@
+---
+ID            : 'sk555555'
+FirstName     : 'first'
+LastName      : 'last'
+Gender        : 'gender'
+Born          : '2006-01-02'
+Email         : 'some@place'
+Phone         : '555-555-5555'
+
+Address:
+  Local       : '555 Local Place'
+  City        : 'city'
+  State       : 'state'
+  Zip         : '555555'
+
+Distance      : '1M' # '1KM'
+
+Contacts:
+
+- FirstName   : 'cfirst'
+  LastName    : 'clast'
+  Gender      : 'cgender'
+  Email       : 'cemail'
+  Phone       : 'cphone'
+  Relation    : 'crelation'
+  Note        : 'cnote'
+
+- FirstName   : 'c2first'
+  LastName    : 'c2last'
+  Gender      : 'c2gender'
+  Email       : 'c2email'
+  Phone       : 'c2phone'
+  Relation    : 'c2relation'
+  Note        : 'c2note'
+
+LastSchool    : 'school'
+
+Accounts:
+  ProtonMail  : 'protonmail'
+  GitLab      : 'github'
+  Discord     : 'discord'
+  NitroType   : 'nitrotype'
+  Google      : 'google'
+  Gmail       : 'gmail'
+  Slack       : 'slack'
+  GitHub      : 'github'
+  NameCheap   : 'namecheap'
+  Netlify     : 'netlify'
+  Microsoft   : 'microsoft'
+  CodeCombat  : 'codecombat'
+  FCC         : 'fcc'
+  CodeOrg     : 'codeorg'
+  LaunchPad   : 'launchpad'
+  Meetup      : 'meetup'
+  Twitter     : 'twitter'
+  LinkedIn    : 'linkedin'
+
+Reserved      : [112]
+
+Enrollment:
+- Invoice:  
+    Number    : '1000'
+    Amount    : 800
+    Paid      : false
+  Sessions:
+  - { Date: '2019-01-01', Hour: 12, Status: 1, X: 'slacked' }
+  - { Date: '2019-01-02', Hour: 12, Status: 1, Note: 'note' }
+  - { Date: '2019-01-03', Hour: 12, Status: 1, Note: 'noteslack', X: 'noteslack' }
+  - { Date: '2019-01-04', Hour: 12, Status: 0 }
+  - { Date: '2019-01-05', Hour: 12, Status: 0 }
+  - { Date: '2019-01-06', Hour: 12, Status: 0 }
+  - { Date: '2019-01-07', Hour: 12, Status: 0 }
+  - { Date: '2019-01-08', Hour: 12, Status: 0 }
+  - { Date: '2019-01-09', Hour: 12, Status: 0 }
+  - { Date: '2019-01-10', Hour: 12, Status: 0 }
+  - { Date: '2019-01-11', Hour: 12, Status: 0 }
+  - { Date: '2019-01-12', Hour: 12, Status: 0 }
+  - { Date: '2019-01-13', Hour: 12, Status: 0 }
+  - { Date: '2019-01-14', Hour: 12, Status: 0 }
+  - { Date: '2019-01-15', Hour: 12, Status: 0 }
+  - { Date: '2019-01-16', Hour: 12, Status: 0 }

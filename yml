@@ -1,0 +1,14 @@
+Already up to date.
+[master 887aa42] yaml -
+ 28 files changed, 64 insertions(+), 44 deletions(-)
+ rename cmd-sl.go => cmd-ska.go (70%)
+ create mode 100644 go.mod
+ create mode 100644 go.sum
+ rename testdata/members/regular/sl000000/{equip.yaml => equip.yml} (100%)
+ rename testdata/members/regular/sl000000/{member.yaml => member.yml} (100%)
+ rename testdata/members/regular/sl000000/{progress.yaml => progress.yml} (100%)
+ rename testdata/members/regular/sl555555/{equip.yaml => equip.yml} (100%)
+ rename testdata/members/regular/sl555555/{member.yaml => member.yml} (100%)
+ rename testdata/members/regular/sl555555/{progress.yaml => progress.yml} (100%)
+ rename testdata/schedule/{hours.yaml => hours.yml} (100%)
+ create mode 100644 yml

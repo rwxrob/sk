@@ -1,0 +1,11 @@
+## all other files are just loaded into a map[string]interface{} bucket
+---
+Workstation   : 'workstation'
+Laptop        : 'laptop'
+Minecraft:
+  Email       : 'mcemail'
+  User        : 'mcuser' 
+  Server      : 'mc0'
+  Port        : '5555'
+
+# need to find a way to capture what they have at home

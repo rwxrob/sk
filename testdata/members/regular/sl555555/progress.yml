@@ -1,0 +1,4 @@
+## all other files are just loaded into a map[string]interface{} bucket
+---
+NitroType:
+  - { On: "2019-01-01-16", WPM: 30 }
