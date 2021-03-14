@@ -3,7 +3,6 @@
 [![GoDoc](https://godoc.org/github.com/rwxrob/sk?status.svg)](https://godoc.org/github.com/rwxrob/sk)
 [![License](https://img.shields.io/badge/license-Apache-brightgreen.svg)](LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rwxrob/sk)](https://goreportcard.com/report/github.com/rwxrob/sk)
-[![Coverage](https://gocover.io/_badge/github.com/rwxrob/sk)](https://gocover.io/github.com/rwxrob/sk)
 
 The `sk` command (and optional `.bashrc` function) make the life of a
 private mentored learning community manager easier but only for those
